@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto-2 </h1>
+<h1 align="center"> Navegação menu HTML CSS </h1>
 
 <p align="center">
 Projeto 2 do curso explorer da Rocketseat.
@@ -18,7 +18,7 @@ Projeto 2 do curso explorer da Rocketseat.
 <br>
 
 <p align="center">
-  <img alt="layout do projeto" src="preview.png" width="100%">
+  <img alt="layout do projeto" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
